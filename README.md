@@ -1,2 +1,2 @@
 # University-website
-A clone of university website is created with the help of html and  css.
+Created a university website with the help of html and css, learned a lot and had a great experience.
